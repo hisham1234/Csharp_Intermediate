@@ -1,0 +1,6 @@
+D:\Csharp_Intermediate\Indexers\bin\Debug\Indexers.exe.config
+D:\Csharp_Intermediate\Indexers\bin\Debug\Indexers.exe
+D:\Csharp_Intermediate\Indexers\bin\Debug\Indexers.pdb
+D:\Csharp_Intermediate\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+D:\Csharp_Intermediate\Indexers\obj\Debug\Indexers.exe
+D:\Csharp_Intermediate\Indexers\obj\Debug\Indexers.pdb

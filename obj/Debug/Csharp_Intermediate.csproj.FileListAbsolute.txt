@@ -5,3 +5,9 @@ C:\Users\User\Source\Repos\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.csp
 C:\Users\User\Source\Repos\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.csproj.CoreCompileInputs.cache
 C:\Users\User\Source\Repos\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.exe
 C:\Users\User\Source\Repos\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.pdb
+D:\Csharp_Intermediate\bin\Debug\Csharp_Intermediate.exe.config
+D:\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.exe
+D:\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.pdb
+D:\Csharp_Intermediate\bin\Debug\Csharp_Intermediate.exe
+D:\Csharp_Intermediate\bin\Debug\Csharp_Intermediate.pdb
+D:\Csharp_Intermediate\obj\Debug\Csharp_Intermediate.csprojResolveAssemblyReference.cache
